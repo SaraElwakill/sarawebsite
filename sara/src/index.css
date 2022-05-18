@@ -1,0 +1,12 @@
+/** @format */
+@import url("https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Nunito:wght@300;500&display=swap");
+* {
+	font-family: "Work Sans";
+	font-family: "Luxurious Roman", cursive;
+	font-family: "Nunito", sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+	scroll-behavior: smooth;
+}
